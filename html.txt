@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+<body>
+<ul>
+    <li class="title">Library Managment</li>
+    <li><a href="search.html">Search a Book</a></li>
+    <li><a class="active" href="index.html">Home</a></li>
+    
+</ul>
+
+
+<script src="app.js"> </script>
+</body>
+</html>
